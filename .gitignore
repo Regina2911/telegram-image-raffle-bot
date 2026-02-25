@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
-database.db
 config.py
+database.db
 hidden_img/
+*.db
